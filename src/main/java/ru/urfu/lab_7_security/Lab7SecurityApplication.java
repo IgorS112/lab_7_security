@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Lab7SecurityApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(Lab7SecurityApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(Lab7SecurityApplication.class, args);
+    }
 
 }
